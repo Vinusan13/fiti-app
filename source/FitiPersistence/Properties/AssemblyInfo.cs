@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PrefCom - Persistence")]
+[assembly: AssemblyTitle("FitiPersistence")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Hochschule Luzern")]
-[assembly: AssemblyProduct("PrefCom - Persistence")]
+[assembly: AssemblyProduct("Fiti - Persistence")]
 [assembly: AssemblyCopyright("Copyright © Hochschule Luzern 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
