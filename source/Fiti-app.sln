@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "PrefCom - Persistence\Persistence.csproj", "{2BA9647B-F499-48EE-94E2-9D4954E96148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersistenceTests", "PersistenceTests\PersistenceTests.csproj", "{2B9744B1-8FBB-42F1-9163-B81E8F9F690B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFrontEnd", "WebFrontEnd\WebFrontEnd.csproj", "{C3C7D78E-A0D1-4F46-B800-1A536DA91C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BA9647B-F499-48EE-94E2-9D4954E96148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA9647B-F499-48EE-94E2-9D4954E96148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA9647B-F499-48EE-94E2-9D4954E96148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA9647B-F499-48EE-94E2-9D4954E96148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B9744B1-8FBB-42F1-9163-B81E8F9F690B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9744B1-8FBB-42F1-9163-B81E8F9F690B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9744B1-8FBB-42F1-9163-B81E8F9F690B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9744B1-8FBB-42F1-9163-B81E8F9F690B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C7D78E-A0D1-4F46-B800-1A536DA91C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C7D78E-A0D1-4F46-B800-1A536DA91C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C7D78E-A0D1-4F46-B800-1A536DA91C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C7D78E-A0D1-4F46-B800-1A536DA91C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
