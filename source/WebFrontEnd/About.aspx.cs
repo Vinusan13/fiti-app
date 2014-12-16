@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Web.UI;
 
-namespace Arcmedia.PrefCom.WebFrontEnd
+namespace Fiti.WebFrontEnd
 {
 	public partial class About : Page
 	{

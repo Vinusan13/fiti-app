@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Arcmedia.PrefCom.WebFrontEnd;
+using System;
 using System.Web;
 using System.Web.Optimization;
 using System.Web.Routing;
 using WebApplication1;
 
-namespace Arcmedia.PrefCom.WebFrontEnd
+namespace Fiti.WebFrontEnd
 {
 	public class Global : HttpApplication
 	{
