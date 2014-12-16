@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Arcmedia.PrefCom.WebFrontEnd.Model.QueryTargets
+namespace Fiti.WebFrontEnd.Model.QueryTargets
 {
 	public class QueryTargetFactory
 	{

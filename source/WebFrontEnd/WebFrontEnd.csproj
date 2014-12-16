@@ -204,8 +204,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PrefCom - Persistence\Persistence.csproj">
-      <Project>{2BA9647B-F499-48EE-94E2-9D4954E96148}</Project>
+    <ProjectReference Include="..\FitiPersistence\Persistence.csproj">
+      <Project>{2ba9647b-f499-48ee-94e2-9d4954e96148}</Project>
       <Name>Persistence</Name>
     </ProjectReference>
   </ItemGroup>

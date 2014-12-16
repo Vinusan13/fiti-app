@@ -2,7 +2,7 @@
 using System.Linq;
 using WebGrease.Css.Extensions;
 
-namespace Arcmedia.PrefCom.WebFrontEnd.Model.Preferences
+namespace Fiti.WebFrontEnd.Model.Preferences
 {
 	public class PreferenceSet
 	{

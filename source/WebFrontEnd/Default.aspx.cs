@@ -5,11 +5,11 @@ using System.Data;
 using System.Linq;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using Arcmedia.PrefCom.Persistence;
-using Arcmedia.PrefCom.WebFrontEnd.Model.Preferences;
-using Arcmedia.PrefCom.WebFrontEnd.Model.QueryTargets;
+using Fiti.Persistence;
+using Fiti.WebFrontEnd.Model.QueryTargets;
+using Fiti.WebFrontEnd.Model.Preferences;
 
-namespace Arcmedia.PrefCom.WebFrontEnd
+namespace Fiti.WebFrontEnd
 {
 	public partial class Default : Page
 	{

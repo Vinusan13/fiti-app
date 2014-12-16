@@ -1,4 +1,5 @@
-﻿using Fiti.Persistence;
+﻿
+using Fiti.Persistence;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace PersistenceTests

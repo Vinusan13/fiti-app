@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Arcmedia.PrefCom.WebFrontEnd {
+namespace Fiti.WebFrontEnd {
     
     
     public partial class Default {

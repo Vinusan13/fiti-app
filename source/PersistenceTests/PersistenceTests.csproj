@@ -55,13 +55,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PrefCom - Persistence\Persistence.csproj">
-      <Project>{2BA9647B-F499-48EE-94E2-9D4954E96148}</Project>
-      <Name>Persistence</Name>
-    </ProjectReference>
+    <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <ProjectReference Include="..\FitiPersistence\Persistence.csproj">
+      <Project>{2ba9647b-f499-48ee-94e2-9d4954e96148}</Project>
+      <Name>Persistence</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

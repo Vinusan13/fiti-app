@@ -2,7 +2,7 @@
 using System.Linq;
 using WebGrease.Css.Extensions;
 
-namespace Arcmedia.PrefCom.WebFrontEnd.Model.QueryTargets
+namespace Fiti.WebFrontEnd.Model.QueryTargets
 {
 	public class QueryTarget
 	{

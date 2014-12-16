@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Arcmedia.PrefCom.WebFrontEnd.Model.Preferences
+namespace Fiti.WebFrontEnd.Model.Preferences
 {
 	public class PreferencesFactory
 	{
